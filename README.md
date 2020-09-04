@@ -4,7 +4,7 @@
 
 A Pokedex App build using React JS Axios , Material UI and Poke API that provides pokemon data of over 500+ pokemon based on searched name or id
 
-![GitHub top language](https://img.shields.io/github/languages/top/amoldalwai/pokedexapp?style=plastic)
+![GitHub top language](https://img.shields.io/github/languages/top/amoldalwai/pokedexapp?style=plastic&?logo=React)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/amoldalwai/pokedexapp?style=plastic)
 ![npm](https://img.shields.io/npm/v/npm?color=green)
 ![Website](https://img.shields.io/website?style=plastic&url=https%3A%2F%2Famoldalwai.github.io%2Fpokedexapp%2F)

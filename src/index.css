@@ -1,0 +1,40 @@
+/* *{
+  font-family: 'Segment7Standard';
+  font-size: 100px;
+  color: rgb(255, 0, 0);
+  text-align: center;
+  background-color: rgb(79, 156, 245);
+  
+ }
+h1{
+  border:10px solid rgb(37, 37, 156);
+  width: fit-content;
+  padding:20px;
+  background:rgb(0, 0, 0);
+  border-radius: 50px;
+  box-shadow: 2px 2px 10px rgb(37, 37, 156);
+  display: flex;
+  justify-items: center;
+}
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+  } */
+
+.pokeImg {
+  width: 170px;
+  height: 170px;
+}
+body {
+  background-color: rgba(50, 116, 240, 0.877);
+  font-family: sans-serif;
+}
+.imgContainer {
+  border-radius: 48% 52% 48% 52% / 49% 52% 48% 51%;
+  background: rgb(231, 222, 222);
+  width: 170px;
+}
+
+/* .activeNav {
+  border-bottom: 2px solid red;
+} */

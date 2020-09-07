@@ -50,5 +50,5 @@ npm start
 Runs the app in the development mode.
 Open http://localhost:3000 to view it in the browser.
 
-![Badge](https://img.shields.io/badge/Made%20by-Amol%20Dalwai-red)
+![Badge](https://img.shields.io/badge/Made%20by-Amol%20Dalwai-red?style=for-the-badge)
 
